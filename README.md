@@ -73,7 +73,7 @@ sudo apt upgrade -y
 
 ### Screenshots
 
-![](screenshots/system-update.png)
+![](Screenshot/system-update.png)
 
 ---
 
@@ -87,7 +87,7 @@ sudo apt install ros-humble-desktop -y
 
 ### Screenshots
 
-![](screenshots/install-ros.png)
+![](Screenshot/install-ros.png)
 
 ---
 
@@ -115,7 +115,7 @@ humble
 
 ### Screenshots
 
-![](screenshots/ros-distro.png)
+![](Screenshot/ros-distro.png)
 
 ---
 
@@ -129,7 +129,7 @@ ros2
 
 ### Screenshots
 
-![](screenshots/ros2-command.png)
+![](Screenshot/ros2-command.png)
 
 ---
 
@@ -143,7 +143,7 @@ ros2 run demo_nodes_cpp listener
 
 ### Screenshots
 
-![](screenshots/listener.png)
+![](Screenshot/listener.png)
 
 ---
 
