@@ -71,7 +71,7 @@ sudo apt update
 sudo apt upgrade -y
 ```
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/system-update.png)
 
@@ -85,7 +85,7 @@ Required packages were installed, followed by the installation of ROS 2 Humble D
 sudo apt install ros-humble-desktop -y
 ```
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/install-ros.png)
 
@@ -113,7 +113,7 @@ Expected output
 humble
 ```
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/ros-distro.png)
 
@@ -127,7 +127,7 @@ The available ROS commands were displayed.
 ros2
 ```
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/ros2-command.png)
 
@@ -141,7 +141,7 @@ A ROS demo node was executed successfully to verify that the installation works 
 ros2 run demo_nodes_cpp listener
 ```
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/listener.png)
 
